@@ -23,5 +23,11 @@ struct chip8 {
     unsigned short PC;
     // stack pointer
     unsigned char SP;
+    // keyboard
+    bool keyboard[CHIP8_NUM_KEYS];
+    //keyboard mapping
+    char* keymap;
+    // display 64x32
+    bool display_pixels[CHIP8_HEIGHT][CHIP8_WIDTH];
 };
 #endif //CHIP8_H

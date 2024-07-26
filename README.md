@@ -1,6 +1,7 @@
 # chip8-emulator
 
 This program is made to implement chip8 using C++.
+Reference: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
 
 # 1. What is Chip8?
 
