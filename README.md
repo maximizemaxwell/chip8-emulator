@@ -2,6 +2,7 @@
 
 This program is made to implement chip8 using C++.
 Reference: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+(Not finished!! Still making...loooooooooonggggggggggg way to goo..Plz enjoy watching this process😂)
 
 # 1. What is Chip8?
 
